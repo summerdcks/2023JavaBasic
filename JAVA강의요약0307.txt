@@ -1,0 +1,123 @@
+12:30 30분 유튜브강의
+4:40 유튜브 질의응답
+
+
+PP : C			// CUI기반 Character User Interface
+OOP : C++ Java Python C#   // GUI기반 Graphic
+
+Java
+객체지향프로그램
+OOP
+
+
+Software Category
+Java 앱개발 Application단위
+|
+ott 중간다리역할 framework단위
+|
+C 칩 단순연산 firmware단위(System software)
+
+SI System Integration
+SM System Management
+
+CPU 중앙처리장치 Computer Processing Unit
+두뇌역할 연산
+
+Storage:
+Memory RAM Ramdom Access Memory
+	ROM Real Only Momory
+HardDist 
+
+8bits = 1byte
+1byte * 2^10 = 1KB
+1KB
+1MB
+1GB
+1TB
+
+IDE
+integrated development environment
+이클립스, devC ...
+
+JVM(Java Virtual Machine)
+C언어는 DOS에서만 돌아감 Dependent
+JAVA는 아님 Independent
+
+Project
+|
+Package : 친구, 대화, 설정...
+|
+Class: 친구추가 친구삭제 /대화명변경 대화삭제...
+|
+Function
+
+C언어	JAVA
+include== import
+if	if{
+{	}
+}
+printf==systout
+scanf==Scanner
+
+
+single line comment
+//
+multi line comment
+/*
+*/
+
+sysout + contrl + spacebar == System.out.println
+
+Scanner scanner = new Scanner(System.in);
+
+% mode modules
+false bool
+
+byte=1byte=8bits=2^8 (256)표현 가능
+-128~128
+short=2byte=2^16
+int=4
+long=8
+...
+
+*숫자 중요
+
+bloolean isCheck = false;
+		=true;
+
+char 문자1개
+String 문자열
+
+= :대입연산자
+
+
+Java Operators
+  1) Arithmetic operators 산술연산자 + - * / %
+  2) Assignment operators 대입연산자 = += -= 
+  3) Comparison operators 비교연산자 > < ==
+  4) Logical operators 논리연산자 && || !
+
+
+switch(n)		//n을 기준으로 케이스를 나눔
+case 1:
+case 2:		//else if
+default		else
+
+
+if(a == 3) 쓰면 안돼
+if (text.equals("a")==3) 써야돼
+equals
+contains
+암기 	*s빼먹지마
+
+
+
+
+
+
+
+
+
+
+
+
